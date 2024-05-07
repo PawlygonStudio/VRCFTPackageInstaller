@@ -1,2 +1,2 @@
-# VRCFTPackageInstaller
+# VRCFT Package Installer
 Editor script to auto install Pawlygon Face Tracking template after a unity package is added in a project. If you wish to modify to your needs update the variables on the script.
